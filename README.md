@@ -1,1 +1,1 @@
-Examples on JUnit 4 and AssertJ in order to get familiar tihe the main testing frameworks used throughout the book.
+Examples with AssertJ and Log4j. Both for practice with assertJ and see use of libraries
