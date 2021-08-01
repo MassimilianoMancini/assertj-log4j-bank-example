@@ -1,0 +1,1 @@
+Examples on JUnit 4 and AssertJ in order to get familiar tihe the main testing frameworks used throughout the book.
